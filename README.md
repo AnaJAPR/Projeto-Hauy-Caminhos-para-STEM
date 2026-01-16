@@ -18,7 +18,7 @@ Pode-se dizer que esse projeto é uma forma de eu dizer a alguns estudantes da m
 
 ### Planejamento:
 
-O projeto tem duração de 3 semanas, com encontros presenciais de segunda a sexta do dia 05/01/2026 ao dia 23/01/2026. Nas segundas o tema será Dados, nas terças e quartas será Python, nas quintas Estatística e nas sextas teremos apresentações de tarefas e do projeto final na última sexta.
+O projeto tem duração de 3 semanas, com encontros presenciais de segunda a sexta do dia 05/01/2026 ao dia 23/01/2026. Nas segundas o tema será Dados, nas terças e quartas será Python, nas quintas Estatística e nas sextas teremos revisão da semana, apresentações de tarefas e do projeto final na última sexta.
 
 **Realização**: 
   - Ana Júlia Amaro Pereira Rocha, graduanda em Ciência de Dados e Inteligência Artificial na Escola de Matemática Aplicada da Fundação Getúlio Vargas (FGV-EMAp).
