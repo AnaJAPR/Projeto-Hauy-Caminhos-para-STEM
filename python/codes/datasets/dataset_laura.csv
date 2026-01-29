@@ -1,0 +1,201 @@
+id,idade,horas_estudo,nota,faltas,turno,escola
+1,15,6.0,1.9,5, Noite ,Publica
+2,18,4.0,0.5,14, Noite ,publica 
+3,14,9.0,9.5,2,Tarde,Pública
+4,15,8.0,8.6,17,Manhã,Publica
+5,17,0.0,8.3,3,Tarde,Publica
+6,18,11.0,9.6,2, Noite ,Pública
+7,15,7.0,6.0,0,Manhã,publica 
+8,14,10.0,9.3,7,Tarde,Pública
+9,15,1.0,,10,Tarde,Publica
+10,16,7.0,1.1,18, Noite ,Pública
+11,14,1.0,3.7,8,Tarde,Pública
+12,15,1.0,7.7,16, Noite ,publica 
+13,14,11.0,3.2,18,Manhã,Publica
+14,16,14.0,6.4,7,Manhã,Publica
+15,14,10.0,0.1,0, Noite ,publica 
+16,18,5.0,5.4,11,Manhã,Publica
+17,17,5.0,3.4,12, Noite ,Publica
+18,14,0.0,9.0,16,Manhã,Pública
+19,18,12.0,9.4,6,Manhã,Pública
+20,17,10.0,3.8,4,Tarde,publica 
+21,14,13.0,4.0,0, Noite ,Publica
+22,17,8.0,9.0,9,Tarde,Publica
+23,16,3.0,0.6,1, Noite ,Pública
+24,15,12.0,4.1,5,Tarde,publica 
+25,14,7.0,1.3,8, Noite ,publica 
+26,18,1.0,0.9,13,Tarde,publica 
+27,15,13.0,7.8,7, Noite ,publica 
+28,17,5.0,3.0,7, Noite ,Publica
+29,17,2.0,5.8,5, Noite ,publica 
+30,15,3.0,8.8,7, Noite ,Pública
+31,18,4.0,8.8,18,Manhã,publica 
+32,15,5.0,6.0,0, Noite ,publica 
+33,18,7.0,6.5,2,Manhã,publica 
+34,15,12.0,0.6,7,Tarde,publica 
+35,15,,3.0,19,Tarde,Publica
+36,18,13.0,6.9,5, Noite ,publica 
+37,17,8.0,1.9,9, Noite ,publica 
+38,16,0.0,8.0,19,Tarde,Publica
+39,14,14.0,5.1,5,Tarde,publica 
+40,17,10.0,7.6,0,Manhã,publica 
+41,18,4.0,1.8,15,Manhã,Pública
+42,16,6.0,0.8,1,Manhã,Pública
+43,14,3.0,4.8,5, Noite ,Pública
+44,15,5.0,5.3,2,Tarde,Publica
+45,16,9.0,7.0,9,Tarde,Pública
+46,14,3.0,2.0,14,Tarde,Publica
+47,14,8.0,6.7,5,Manhã,Publica
+48,17,3.0,7.9,19,Manhã,publica 
+49,15,0.0,0.4,19,Tarde,Pública
+50,17,11.0,9.6,15,Tarde,Pública
+51,18,9.0,9.8,3, Noite ,Publica
+52,15,6.0,5.5,5,Tarde,Pública
+53,18,2.0,0.6,3, Noite ,Publica
+54,16,3.0,3.5,3, Noite ,publica 
+55,14,9.0,0.2,2,Manhã,Publica
+56,14,1.0,8.0,18, Noite ,publica 
+57,18,13.0,2.1,4, Noite ,Pública
+58,18,10.0,1.4,11,Manhã,Pública
+59,14,4.0,7.0,0,Manhã,Pública
+60,14,0.0,0.6,12, Noite ,publica 
+61,16,11.0,2.6,10, Noite ,Publica
+62,18,14.0,5.1,15, Noite ,publica 
+63,16,14.0,10.0,10,Manhã,publica 
+64,14,5.0,1.5,6,Tarde,Pública
+65,14,0.0,4.5,14,Tarde,Pública
+66,16,10.0,6.0,18,Tarde,Publica
+67,17,8.0,1.0,7, Noite ,publica 
+68,14,1.0,2.9,3,Manhã,publica 
+69,18,12.0,7.2,1, Noite ,Pública
+70,18,13.0,5.5,14,Manhã,Publica
+71,14,3.0,8.4,16,Tarde,Publica
+72,15,6.0,5.8,16, Noite ,Pública
+73,15,12.0,1.8,9,Tarde,Publica
+74,18,0.0,6.2,4,Manhã,Pública
+75,14,0.0,8.9,0,Tarde,publica 
+76,16,6.0,5.2,9,Tarde,Pública
+77,15,5.0,6.3,3,Manhã,publica 
+78,17,11.0,5.1,7, manhã ,publica 
+79,15,7.0,9.1,12,Manhã,publica 
+80,16,4.0,4.1,0,Manhã,Pública
+81,14,9.0,5.4,14,Tarde,Publica
+82,15,12.0,3.4,17, Noite ,Publica
+83,15,0.0,1.3,19, Noite ,Publica
+84,14,0.0,6.6,16,Manhã,Publica
+85,16,9.0,9.4,7,Manhã,Publica
+86,17,2.0,6.1,6,Tarde,publica 
+87,14,11.0,8.4,2, Noite ,Publica
+88,18,2.0,2.2,7,Manhã,Pública
+89,16,14.0,9.0,1,Manhã,publica 
+90,14,1.0,0.1,0,Manhã,Pública
+91,17,11.0,2.3,4, Noite ,Publica
+92,17,6.0,1.3,5, Noite ,Publica
+93,15,6.0,9.1,2,Manhã,Publica
+94,16,13.0,9.1,18,Tarde,Pública
+95,15,10.0,5.8,8, Noite ,publica 
+96,14,7.0,0.9,19,Manhã,Pública
+97,16,12.0,1.2,13, Noite ,Pública
+98,15,3.0,7.7,7,Tarde,Publica
+99,14,9.0,7.3,1,Manhã,Pública
+100,15,0.0,0.9,16,Tarde,Publica
+101,15,7.0,3.6,7,Tarde,Publica
+102,14,11.0,7.7,10,Manhã,Pública
+103,15,13.0,1.3,1,Tarde,Publica
+104,16,10.0,5.4,14,Manhã,publica 
+105,18,7.0,7.5,11, Noite ,Pública
+106,16,9.0,2.7,12, Noite ,Pública
+107,15,10.0,5.7,17, Noite ,Publica
+108,15,0.0,4.8,16, Noite ,publica 
+109,18,2.0,5.6,9,Tarde,Publica
+110,14,2.0,4.4,2, Noite ,publica 
+111,14,10.0,6.9,12,Manhã,Publica
+112,15,12.0,7.2,9,Manhã,Publica
+113,14,10.0,7.6,3,Manhã,Pública
+114,18,0.0,0.4,7, Noite ,publica 
+115,18,5.0,6.8,9,Manhã,Publica
+116,14,8.0,4.8,12,Manhã,Pública
+117,16,11.0,1.0,5,Manhã,publica 
+118,17,0.0,6.1,7,Tarde,Pública
+119,17,5.0,8.4,8, Noite ,Pública
+120,17,9.0,7.3,18, Noite ,publica 
+121,16,3.0,3.2,5,Manhã,Publica
+122,16,11.0,0.7,5,Tarde,Pública
+123,17,10.0,0.4,9,Tarde,Publica
+124,14,9.0,5.6,9,Manhã,Publica
+125,17,6.0,1.6,4,Tarde,Pública
+126,15,9.0,2.7,6,Manhã,Pública
+127,17,7.0,2.4,17, Noite ,publica 
+128,17,8.0,0.2,1,Tarde,publica 
+129,15,0.0,1.5,6, Noite ,Publica
+130,17,9.0,0.3,2,Manhã,Pública
+131,14,6.0,9.8,13,Manhã,Pública
+132,14,14.0,3.6,1,Manhã,Publica
+133,15,0.0,8.3,4,Manhã,publica 
+134,14,1.0,4.1,18,Tarde,Publica
+135,17,11.0,2.5,16,Manhã,Pública
+136,17,13.0,2.4,14,Manhã,Publica
+137,16,0.0,7.7,18, Noite ,Publica
+138,14,1.0,6.7,4,Manhã,publica 
+139,14,10.0,7.1,2,Manhã,Publica
+140,18,9.0,8.5,9, Noite ,Publica
+141,17,11.0,5.2,3,Manhã,Pública
+142,15,4.0,4.4,8, Noite ,publica 
+143,15,10.0,5.5,17,Tarde,Pública
+144,15,9.0,6.5,4, Noite ,publica 
+145,15,0.0,7.9,15,Tarde,Publica
+146,15,1.0,8.9,19,Manhã,publica 
+147,18,10.0,3.1,2,Manhã,Publica
+148,18,7.0,1.4,19, Noite ,Pública
+149,17,9.0,7.5,0,Tarde,publica 
+150,15,3.0,5.3,3,Manhã,publica 
+151,14,0.0,7.8,10,Manhã,Pública
+152,17,8.0,4.3,3, Noite ,Pública
+153,15,1.0,8.4,7,Tarde,Publica
+154,18,12.0,5.4,8,Manhã,Pública
+155,18,11.0,2.5,5,Manhã,Publica
+156,18,13.0,0.6,12, Noite ,Publica
+157,14,14.0,0.9,6, Noite ,Pública
+158,18,12.0,1.7,10,Tarde,Pública
+159,16,5.0,4.4,5,Manhã,Publica
+160,15,4.0,8.1,16,Tarde,publica 
+161,16,5.0,9.1,12,Manhã,publica 
+162,15,4.0,5.8,4,Manhã,Pública
+163,16,3.0,2.9,14,Manhã,Publica
+164,15,14.0,6.5,19,Tarde,publica 
+165,17,14.0,6.4,7,Manhã,publica 
+166,16,13.0,5.0,16,Tarde,publica 
+167,17,14.0,9.7,19,Manhã,Publica
+168,18,4.0,8.1,4, Noite ,publica 
+169,18,4.0,9.3,4,Tarde,publica 
+170,14,1.0,6.1,9,Tarde,Publica
+171,16,1.0,9.8,15,Manhã,publica 
+172,16,2.0,7.1,13,Manhã,Pública
+173,14,1.0,0.1,11,Tarde,publica 
+174,14,1.0,2.9,16,Tarde,Publica
+175,16,2.0,8.4,15,Manhã,Pública
+176,14,12.0,4.4,17, Noite ,publica 
+177,16,12.0,1.7,9,Manhã,Pública
+178,16,2.0,1.1,3,Manhã,Publica
+179,14,14.0,8.0,11,Manhã,publica 
+180,18,13.0,6.5,10,Tarde,publica 
+181,15,2.0,5.0,10,Manhã,Publica
+182,17,5.0,2.9,4,Tarde,Publica
+183,16,8.0,6.4,5,Tarde,Pública
+184,17,1.0,3.7,4, Noite ,publica 
+185,17,7.0,5.4,19, Noite ,Pública
+186,14,1.0,7.6,14,Manhã,Pública
+187,18,14.0,8.4,7, Noite ,Pública
+188,15,7.0,1.0,1, Noite ,Pública
+189,16,1.0,5.1,13, Noite ,Pública
+190,14,10.0,6.5,14, Noite ,Pública
+191,18,8.0,1.5,9,Manhã,Pública
+192,18,0.0,0.0,3, Noite ,publica 
+193,18,6.0,9.7,7,Manhã,Pública
+194,16,7.0,8.1,13, Noite ,publica 
+195,15,5.0,2.7,18,Manhã,Pública
+196,18,1.0,2.8,5, Noite ,Pública
+197,14,10.0,1.2,3,Manhã,Pública
+198,17,2.0,4.8,1,Tarde,Pública
+199,18,6.0,9.3,10,Tarde,publica 
+200,16,1.0,9.1,3,Tarde,Publica

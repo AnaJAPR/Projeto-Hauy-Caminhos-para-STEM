@@ -1,0 +1,201 @@
+id,horas_celular,tempo_redes,tempo_estudo,horas_sono,nivel_concentracao,principal_uso,periodo
+1,6,1.0,6,5.0,2,Jogos,Final de Semana
+2,6,7.0,1,7.0,5,Estudo,Final de Semana
+3,5,2.0,3,6.0,5, Entretenimento ,Final de Semana
+4,13,3.0,2,7.0,1,Redes Sociais,Final de Semana
+5,8,3.0,1,7.0,2,Estudo,Final de Semana
+6,3,2.0,0,7.0,1,Jogos,Final de Semana
+7,6,0.0,6,7.0,4,Redes Sociais,Final de Semana
+8,12,5.0,0,5.0,4,Estudo,Final de Semana
+9,2,1.0,3,5.0,1, Entretenimento ,Semana
+10,4,3.0,2,8.0,1, Entretenimento ,Final de Semana
+11,10,0.0,2,4.0,5,Estudo,Final de Semana
+12,8,4.0,5,7.0,1, Entretenimento ,Final de Semana
+13,8,7.0,1,5.0,1,Estudo,Final de Semana
+14,2,1.0,2,7.0,1,Jogos,Final de Semana
+15,2,0.0,3,8.0,5,Estudo,Semana
+16,4,7.0,1,7.0,3,Redes Sociais,Semana
+17,3,6.0,4,8.0,1,Jogos,Semana
+18,3,7.0,5,5.0,5,Jogos,Final de Semana
+19,5,5.0,6,8.0,2,Jogos,Final de Semana
+20,5,7.0,4,8.0,4,Redes Sociais,Final de Semana
+21,7,1.0,8,8.0,1,Estudo,Final de Semana
+22,13,7.0,2,4.0,5,Redes Sociais,Final de Semana
+23,1,7.0,1,,1,Estudo,Final de Semana
+24,7,2.0,4,7.0,3,Redes Sociais,Semana
+25,12,6.0,0,8.0,4,Redes Sociais,Final de Semana
+26,1,2.0,9,7.0,4, Entretenimento ,Final de Semana
+27,12,6.0,0,5.0,5,Redes Sociais,Final de Semana
+28,8,7.0,0,6.0,2,Jogos,Final de Semana
+29,5,4.0,1,5.0,1,Redes Sociais,Final de Semana
+30,3,5.0,0,8.0,1, Entretenimento ,Final de Semana
+31,2,4.0,3,4.0,4,Jogos,Semana
+32,8,0.0,2,4.0,5,Estudo,Final de Semana
+33,13,3.0,1,4.0,3,Jogos,Final de Semana
+34,2,2.0,6,6.0,2,Jogos,Semana
+35,11,7.0,2,5.0,3,Redes Sociais,Final de Semana
+36,12,3.0,8,6.0,2,Estudo,Semana
+37,10,5.0,5,6.0,4,Redes Sociais,Final de Semana
+38,9,5.0,9,8.0,1,Estudo,Final de Semana
+39,12,5.0,6,8.0,3, Entretenimento ,Final de Semana
+40,13,4.0,3,7.0,3,Redes Sociais,Semana
+41,6,4.0,3,8.0,2, Entretenimento ,Semana
+42,12,1.0,3,4.0,5,Estudo,Semana
+43,10,6.0,3,6.0,2,Redes Sociais,Semana
+44,8,0.0,4,5.0,1,Redes Sociais,Semana
+45,10,3.0,6,4.0,3,Jogos,Final de Semana
+46,2,7.0,1,6.0,3,Estudo,Final de Semana
+47,9,1.0,8,7.0,4,Redes Sociais,Final de Semana
+48,8,2.0,8,7.0,2,Estudo,Final de Semana
+49,5,0.0,0,7.0,3,Redes Sociais,Semana
+50,7,0.0,3,8.0,3,estudo ,Final de Semana
+51,9,0.0,3,6.0,4, Entretenimento ,Semana
+52,10,0.0,5,4.0,5, Entretenimento ,Semana
+53,7,1.0,3,4.0,3,Estudo,Semana
+54,1,7.0,7,7.0,1,Redes Sociais,Final de Semana
+55,8,4.0,1,6.0,2,Estudo,Final de Semana
+56,6,5.0,2,6.0,4,Jogos,Final de Semana
+57,10,2.0,7,5.0,3,Estudo,Semana
+58,11,6.0,6,4.0,4,Estudo,Semana
+59,11,6.0,6,7.0,5,Jogos,Final de Semana
+60,12,5.0,7,6.0,5, Entretenimento ,Final de Semana
+61,4,3.0,6,6.0,2, Entretenimento ,Final de Semana
+62,2,7.0,1,4.0,4,Redes Sociais,Final de Semana
+63,5,4.0,2,4.0,5,Jogos,Semana
+64,13,7.0,9,5.0,3,Redes Sociais,Final de Semana
+65,3,6.0,3,5.0,2, Entretenimento ,Final de Semana
+66,12,4.0,3,5.0,3, Entretenimento ,Final de Semana
+67,12,4.0,9,8.0,4,Jogos,Final de Semana
+68,13,7.0,4,6.0,5, Entretenimento ,Semana
+69,13,0.0,3,8.0,5, Entretenimento ,Final de Semana
+70,13,5.0,0,4.0,5,Jogos,Final de Semana
+71,4,7.0,7,7.0,5,Estudo,Final de Semana
+72,10,6.0,4,7.0,2, Entretenimento ,Semana
+73,9,0.0,2,6.0,1,Redes Sociais,Semana
+74,1,4.0,8,5.0,4,Jogos,Final de Semana
+75,8,3.0,6,6.0,4,Jogos,Semana
+76,2,3.0,3,8.0,2,Redes Sociais,Semana
+77,10,2.0,4,7.0,3, Entretenimento ,Final de Semana
+78,12,1.0,9,8.0,2,Jogos,Semana
+79,13,3.0,8,6.0,5,Jogos,Final de Semana
+80,5,2.0,2,5.0,5, Entretenimento ,Semana
+81,3,6.0,1,6.0,4,Jogos,Final de Semana
+82,13,7.0,6,7.0,4,Jogos,Semana
+83,11,0.0,6,6.0,3,Estudo,Semana
+84,12,1.0,4,8.0,1,Estudo,Semana
+85,2,6.0,1,7.0,5, Entretenimento ,Semana
+86,11,4.0,8,8.0,1,Jogos,Final de Semana
+87,10,7.0,1,7.0,5,Redes Sociais,Semana
+88,8,5.0,5,5.0,3,Jogos,Semana
+89,7,3.0,0,6.0,3,Estudo,Semana
+90,1,0.0,6,5.0,4,Jogos,Semana
+91,8,0.0,5,5.0,1,Estudo,Final de Semana
+92,13,2.0,1,7.0,2,Estudo,Semana
+93,1,6.0,6,6.0,4,Jogos,Semana
+94,4,5.0,2,5.0,2,Estudo,Final de Semana
+95,7,3.0,1,7.0,5, Entretenimento ,Final de Semana
+96,13,6.0,4,7.0,5, Entretenimento ,Semana
+97,8,0.0,0,4.0,2, Entretenimento ,Final de Semana
+98,12,6.0,1,5.0,4,Estudo,Semana
+99,13,6.0,8,7.0,4,Redes Sociais,Final de Semana
+100,4,2.0,7,6.0,2,Redes Sociais,Semana
+101,13,7.0,1,6.0,4,Estudo,Final de Semana
+102,4,,1,7.0,4,Estudo,Final de Semana
+103,6,6.0,0,6.0,5,Estudo,Semana
+104,8,1.0,4,4.0,2, Entretenimento ,Semana
+105,13,0.0,1,7.0,3, Entretenimento ,Final de Semana
+106,5,4.0,1,8.0,4,Redes Sociais,Final de Semana
+107,8,7.0,7,5.0,5,Jogos,Final de Semana
+108,4,7.0,9,5.0,2,Redes Sociais,Semana
+109,7,2.0,8,6.0,5,Jogos,Final de Semana
+110,8,2.0,7,8.0,2, Entretenimento ,Semana
+111,3,0.0,0,7.0,5,Estudo,Semana
+112,11,4.0,9,7.0,1,Redes Sociais,Final de Semana
+113,13,4.0,9,6.0,3, Entretenimento ,Semana
+114,4,4.0,8,4.0,4,Jogos,Final de Semana
+115,3,0.0,3,6.0,5,Redes Sociais,Semana
+116,11,7.0,3,4.0,1,Jogos,Semana
+117,8,5.0,6,7.0,3,Redes Sociais,Final de Semana
+118,10,0.0,6,6.0,1,Jogos,Final de Semana
+119,11,4.0,4,7.0,2,Estudo,Semana
+120,4,0.0,4,7.0,4,Estudo,Final de Semana
+121,7,2.0,0,8.0,3, Entretenimento ,Semana
+122,4,1.0,1,4.0,2,Redes Sociais,Semana
+123,13,1.0,7,4.0,3, Entretenimento ,Final de Semana
+124,7,1.0,8,6.0,2, Entretenimento ,Final de Semana
+125,5,7.0,0,5.0,4,Estudo,Semana
+126,13,5.0,4,8.0,3,Jogos,Semana
+127,3,6.0,1,6.0,5, Entretenimento ,Semana
+128,7,3.0,2,5.0,1,Estudo,Final de Semana
+129,3,7.0,6,4.0,3,Jogos,Semana
+130,12,0.0,4,7.0,3,Jogos,Final de Semana
+131,10,2.0,3,4.0,1,Jogos,Final de Semana
+132,13,7.0,5,5.0,1,Redes Sociais,Final de Semana
+133,10,6.0,0,7.0,3,Jogos,Semana
+134,4,7.0,4,7.0,4,Jogos,Final de Semana
+135,1,3.0,3,7.0,5,Redes Sociais,Final de Semana
+136,9,2.0,0,8.0,2, Entretenimento ,Final de Semana
+137,10,2.0,3,5.0,5,Jogos,Final de Semana
+138,3,6.0,5,6.0,1,Estudo,Final de Semana
+139,2,1.0,2,4.0,3,Redes Sociais,Final de Semana
+140,6,3.0,0,8.0,4,Redes Sociais,Semana
+141,8,4.0,2,5.0,1,Estudo,Final de Semana
+142,10,1.0,9,5.0,2,Redes Sociais,Semana
+143,6,7.0,4,6.0,1,Estudo,Semana
+144,2,0.0,6,4.0,5, Entretenimento ,Semana
+145,5,0.0,0,7.0,5,Estudo,Semana
+146,7,0.0,1,5.0,4,Estudo,Semana
+147,9,4.0,1,7.0,5,Estudo,Final de Semana
+148,12,6.0,9,4.0,3,Jogos,Semana
+149,7,0.0,0,5.0,4, Entretenimento ,Semana
+150,8,2.0,0,4.0,3, Entretenimento ,Semana
+151,1,7.0,0,8.0,3,Estudo,Final de Semana
+152,1,5.0,7,7.0,2,Jogos,Semana
+153,3,6.0,2,7.0,1,Jogos,Semana
+154,10,3.0,6,4.0,1,Redes Sociais,Semana
+155,7,4.0,7,4.0,3,Jogos,Semana
+156,13,5.0,2,4.0,5,Estudo,Final de Semana
+157,2,2.0,9,7.0,4,Estudo,Semana
+158,11,2.0,1,6.0,2,Redes Sociais,Final de Semana
+159,11,7.0,6,5.0,3,Estudo,Final de Semana
+160,4,2.0,4,7.0,2,Jogos,Semana
+161,3,1.0,8,4.0,1, Entretenimento ,Semana
+162,9,1.0,8,8.0,5,Estudo,Final de Semana
+163,6,2.0,1,8.0,2,Jogos,Final de Semana
+164,7,4.0,5,4.0,2, Entretenimento ,Semana
+165,5,2.0,9,8.0,1,Redes Sociais,Semana
+166,10,4.0,6,4.0,1,Redes Sociais,Semana
+167,3,2.0,6,7.0,3, Entretenimento ,Final de Semana
+168,8,1.0,9,5.0,1,Estudo,Final de Semana
+169,7,5.0,2,4.0,5,Redes Sociais,Final de Semana
+170,12,0.0,1,8.0,3, Entretenimento ,Semana
+171,2,0.0,0,4.0,3,Jogos,Final de Semana
+172,4,5.0,5,6.0,5, Entretenimento ,Semana
+173,4,1.0,6,7.0,3, Entretenimento ,Semana
+174,13,4.0,0,4.0,3,Redes Sociais,Semana
+175,4,5.0,7,4.0,5,Redes Sociais,Semana
+176,7,1.0,8,8.0,2,Estudo,Final de Semana
+177,11,1.0,7,5.0,1,Estudo,Semana
+178,1,3.0,8,8.0,5,Redes Sociais,Semana
+179,2,6.0,4,4.0,2,Estudo,Final de Semana
+180,9,7.0,0,5.0,5,Redes Sociais,Final de Semana
+181,2,2.0,5,8.0,5,Jogos,Semana
+182,4,0.0,9,4.0,2,Estudo,Final de Semana
+183,6,0.0,7,7.0,1,Estudo,Final de Semana
+184,7,0.0,3,4.0,5,Jogos,Final de Semana
+185,6,1.0,8,8.0,5,Jogos,Final de Semana
+186,5,7.0,9,7.0,5,Redes Sociais,Semana
+187,10,0.0,9,4.0,2,Redes Sociais,Semana
+188,12,7.0,1,6.0,3,Redes Sociais,Final de Semana
+189,2,0.0,0,4.0,1,Jogos,Final de Semana
+190,10,3.0,2,5.0,1,Jogos,Semana
+191,5,1.0,1,8.0,2,Jogos,Final de Semana
+192,12,4.0,3,6.0,5,Jogos,Final de Semana
+193,4,3.0,3,4.0,2,Estudo,Semana
+194,2,6.0,4,4.0,5,Jogos,Semana
+195,10,0.0,3,4.0,2,Redes Sociais,Semana
+196,12,0.0,3,5.0,4,Redes Sociais,Final de Semana
+197,9,7.0,1,7.0,2, Entretenimento ,Final de Semana
+198,12,1.0,6,4.0,3,Estudo,Semana
+199,6,7.0,1,7.0,5, Entretenimento ,Final de Semana
+200,8,5.0,0,7.0,1,Estudo,Semana
