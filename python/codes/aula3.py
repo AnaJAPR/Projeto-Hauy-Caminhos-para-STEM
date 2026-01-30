@@ -1,11 +1,11 @@
 import pandas as pd
 
 # Importando os dados
-df = pd.read_csv("dados_estudantes.csv")
+df = pd.read_csv("datasets/dados_estudantes.csv")
 
 # Visão inicial
 print(df.head())
-print("\n")
+print("\n")  ## salta uma linha no terminal ou "imprime uma linha vazia"
 df.info()
 print("\n")
 
@@ -30,7 +30,7 @@ melhor_idade = media_por_idade.idxmax()
 # Resultado final
 print(f"Turno com maior média de notas: {melhor_turno}")
 print(f"Idade com maior média de notas: {melhor_idade}")
-print("\n")   ## salta uma linha no terminal
+print("\n")
 print(media_por_turno)
 print("\n")
 print(media_por_idade)

@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Importando os dados
-df = pd.read_csv("dados_estudantes.csv")
+df = pd.read_csv("datasets/dados_estudantes.csv")
 
 # Padronização
 df["turno"] = df["turno"].str.lower().str.strip()
@@ -49,7 +49,7 @@ while orcamento > 0:
 
 
 # Comandos que usamos para subir os códigos da aula para o GitHub por meio do Git Bash
-# usa cd para entrar na pasta referente ao seu projeto no GitHub
+# use cd para entrar na pasta referente ao seu projeto no GitHub
 # git status    -> deve aparecer os nomes dos arquivos adicionados ou alterados em vermelho
 # git add .     -> Adiciona todos os arquivos listados em vermelho anteriormente
 # git status    -> os nomes dos arquivos agoram aparecem em verde
